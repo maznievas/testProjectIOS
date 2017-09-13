@@ -62,4 +62,6 @@
     [MinTempLabel setText:[NSString stringWithFormat:@"%g", [weatherGetter getTempMin]]];
 }
 
+//testCommit
+
 @end
